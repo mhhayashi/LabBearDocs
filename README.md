@@ -7,6 +7,7 @@ LabBear targets a specific workflow that is used by physicists:
 2. Drivers for the hardware written in Python
 3. Python scripts to run experiments using the drivers
 4. A desire to run these scripts from another PC in the lab (or via VPN), with minimal changes
+
 [Requirements](REQUIREMENTS.md)
 
 [Install Guide](INSTALL.md)
