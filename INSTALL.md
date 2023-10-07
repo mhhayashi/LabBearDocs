@@ -5,9 +5,9 @@
 3. Download .whl file from releases into new folder
 4. Open command line
 5. cd into directory
-6. Optional (recommended): Use a virtual environment copying packages from global. (warning: disk space)
+6. Optional (recommended): Use a virtual environment copying packages from global. Instructions:
 
-Windows
+Windows 
 ```
 pip freeze > requirements.txt
 python -m venv .venv
@@ -29,7 +29,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
-7. Install
+7. Install:
 ```
 pip install \[LabBear\].whl
 ```
