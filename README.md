@@ -14,7 +14,7 @@ LabBear targets a specific workflow that is used by physicists:
 
 [Install Guide](INSTALL.md)
 
-[Usage Guide](USAGE.md)
+[Quick Start](USAGE.md)
 
 The software is copyright Lukasz Komza and Max Hayashi. Do not redistribute.
 
