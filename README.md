@@ -12,6 +12,8 @@ LabBear targets a specific workflow that is used by physicists:
 
 [Limitations](LIMITATIONS.md)
 
+[Multi-host usage](MULTIHOST.md)
+
 [Install Guide](INSTALL.md)
 
 [Quick Start](USAGE.md)

@@ -41,4 +41,4 @@ pip install \[LabBear\].whl
 source .venv/bin/activate
 
 ## launch the app
-flask --app LabBearApp run --debug \[--host IP]
+flask --app LabBearApp run \[--host IP]
